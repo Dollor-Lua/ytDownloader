@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Youtube Video Downloader</title>
+    <link rel="stylesheet" href="index.css">
+
+    <script defer src="./index.html.js"></script>
+  </head>
+  <body>
+    <input type="text" placeholder="https://www.youtube.com/" id="URL" onchange="updateInfo();" />
+    <select name="Format" id="FORMAT" onchange="updateInfo();">
+      <option value="mp4">MP4</option>
+      <option value="mp3">MP3</option>
+    </select>
+    <button id="FOLDER" onchange="updateInfo();">Save to: None Selected</button>
+    <button id="DOWNLOAD">Download</button>
+    <p id="INFO">Note: Info below will update when you deselect the textbox.</p>
+    <p id="VIDEO_NAME">Video Title: (No video set)</p>
+    <p id="VIDEO_LENGTH">Video Length: (No video set)</p>
+    <p id="VIDEO_CREATOR">Video Publisher: (No video set)</p>
+    <p id="VIDEO_PUBLISHED">Video Created: (No video set)</p>
+    <p id="FILE_SIZE">Estimated File Size: (No video set)</p>
+  </body>
+</html>

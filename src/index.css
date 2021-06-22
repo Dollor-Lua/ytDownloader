@@ -1,0 +1,160 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+}
+
+body {
+    background-color: #222227;
+}
+
+#URL {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 0px);
+    height: 30px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#FORMAT {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 40px);
+    height: 30px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#FOLDER {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 80px);
+    height: 30px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#DOWNLOAD {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 120px);
+    height: 30px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#INFO {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 180px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d00;
+    color: white;
+}
+
+#VIDEO_NAME {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 240px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#VIDEO_LENGTH {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 280px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#VIDEO_CREATOR {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 320px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#VIDEO_PUBLISHED {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 360px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
+
+#FILE_SIZE {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-top: calc(5% + 400px);
+    height: 28px;
+    padding-left: 5px;
+    padding-top: 5px;
+    position: absolute;
+    display: block;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #36363d;
+    color: white;
+}
